@@ -7,7 +7,7 @@
             <div class="dropdown dropdown-end">
                 <label tabindex="0" class="btn btn-ghost btn-circle avatar">
                     <div class="w-10 rounded-full">
-                        <img src="../../../logo.png" class="scale-75" alt="..." />
+                        <img src="../../public/logo.png" class="scale-75" alt="..." />
                     </div>
                 </label>
             </div>
