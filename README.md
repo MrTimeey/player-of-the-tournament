@@ -1,5 +1,9 @@
 # player-of-the-tournament
 
+Simple voting app for player of the tournament.
+
+![app](app.gif)
+
 ## Project Setup
 
 ```sh
