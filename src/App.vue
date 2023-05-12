@@ -6,16 +6,20 @@ import DefaultHeader from '@/components/DefaultHeader.vue';
 </script>
 
 <template>
-    <default-layout>
-        <template #header>
-            <default-header />
-        </template>
+    <div class="bg-red-600">
+        <default-layout>
+            <template #header>
+                <default-header />
+            </template>
 
-        <template #main>
-            <RouterView />
-        </template>
-        <template #footer> <default-footer /></template>
-    </default-layout>
+            <template #main>
+                <div class="bg-gray-900">
+                    <RouterView />
+                </div>
+            </template>
+            <template #footer> <default-footer /></template>
+        </default-layout>
+    </div>
 </template>
 
 <style scoped></style>
