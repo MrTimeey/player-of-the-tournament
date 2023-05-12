@@ -2,7 +2,8 @@
 
 Simple voting app for player of the tournament.
 
-![app](app.gif)
+
+<img src="./app.gif" width="250" />
 
 ## Project Setup
 
