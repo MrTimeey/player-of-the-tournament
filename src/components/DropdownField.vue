@@ -17,7 +17,7 @@ export default defineComponent({
     props: {
         label: String,
         placeholder: String,
-        items: Array<String>,
+        items: Array<string>,
         selected: String,
     },
     methods: {
